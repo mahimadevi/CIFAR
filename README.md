@@ -11,4 +11,5 @@ CIFAR-10 is an established computer-vision dataset used for object recognition. 
 7: horse <br/>
 8: ship <br/>
 9: truck <br/>
-These are very small images, much smaller than a typical photograph, and the dataset was intended for computer vision research.
+These are very small images, much smaller than a typical photograph, and the dataset was intended for computer vision research.<br/>
+The final Accuracy of this model is 68.54%.
