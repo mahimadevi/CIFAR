@@ -1,5 +1,5 @@
 # CIFAR 
-The dataset is comprised of 60,000 32×32 pixel color photographs of objects from 10 classes, such as frogs, birds, cats, ships, etc. The class labels and their standard associated integer values are listed below.
+CIFAR-10 is an established computer-vision dataset used for object recognition. It is a subset of the 80 million tiny images dataset and consists of 60,000 32x32 color images containing one of 10 object classes, with 6000 images per class, such as frogs, birds, cats, ships, etc. The class labels and their standard associated integer values are listed below.
 
 0: airplane <br/>
 1: automobile <br/>
